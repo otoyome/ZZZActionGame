@@ -1,0 +1,23 @@
+#pragma	once
+
+#include <string>
+#include <unordered_map>
+#include <memory>
+#include <functional>
+#include <type_traits>
+
+class action_interface
+{
+public:
+	enum class state
+	{
+		run,		// é¿çsíÜ
+		failed,		// é¿çsé∏îs
+		complete,	// é¿çsê¨å˜
+	};
+
+public:
+	action_interface() {}
+	virtual ~action_interface() {}
+	virtual state run(float elapsedTime) = 0;
+};
