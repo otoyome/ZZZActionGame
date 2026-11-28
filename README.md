@@ -1,8 +1,4 @@
-
 <img width="1602" height="932" alt="image" src="https://github.com/user-attachments/assets/03760aab-b3bd-4b03-845b-8f8495154a89" />
-<img width="1602" height="932" alt="image" src="https://github.com/user-attachments/assets/592b2535-e1b7-480b-80eb-4d25812ac3b1" />
-<img width="1602" height="932" alt="image" src="https://github.com/user-attachments/assets/2f202fed-245a-47db-997f-2dd31753dcd1" />
-<img width="1602" height="932" alt="image" src="https://github.com/user-attachments/assets/0a6fa307-616a-459b-84f1-4a372d432e07" />
 
 期間：2か月    
 1月目：1体目のキャラクターモデルとアニメーションを作成しながらエンジン・シェーダー部分制作  
@@ -37,4 +33,8 @@
 　・ボスを倒した時の演出  
 　　スピード感が微妙になってしまっており、倒した爽快感がかなり減っている  
   ・回避とパリィの使い分けをしなくても良い状態になっている  
+
+<img width="1602" height="932" alt="image" src="https://github.com/user-attachments/assets/592b2535-e1b7-480b-80eb-4d25812ac3b1" />
+<img width="1602" height="932" alt="image" src="https://github.com/user-attachments/assets/2f202fed-245a-47db-997f-2dd31753dcd1" />
+<img width="1602" height="932" alt="image" src="https://github.com/user-attachments/assets/0a6fa307-616a-459b-84f1-4a372d432e07" />
 
